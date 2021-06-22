@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Main theme colors-->
+    <color name="colorPrimary">#4af8d1</color>
+    <color name="colorPrimaryDark">#04c89d</color>
+    <color name="colorPrimaryExtraDark">#049576</color>
+
+    <color name="colorSecondary">#241f61</color>
+    <color name="colorSecondaryDark">#16123a</color>
+    <color name="colorSecondaryXDark">#0c0a21</color>
+    <color name="colorSecondaryXXDark">#16123a</color>
+
+    <color name="colorAccent">#918bda</color>
+    <color name="colorAccentLight">#55918bda</color>
+
+    <color name="background">#121212</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="notification">#04c89d</color>
+
+    <!--Map elements colors-->
+    <color name="building_base_fill">#ffb39ddb</color>
+    <color name="selected_room_fill">#ff80cbc4</color>
+    <color name="selected_room_stroke">#ff003d33</color>
+    <color name="room_fill">#ff00695c</color>
+    <color name="room_stroke">#ff003d33</color>
+    <color name="search_bar">#424242</color>
+
+    <!--Intro Slides bg colors-->
+    <color name="slide1_bg">#000022</color>
+    <color name="slide2_bg">#001f1a</color>
+
+    <!--Other widgets colors-->
+    <color name="icons_fill">#cfff</color>
+    <color name="spinnerItemEnabled">#FFFFFFFF</color>
+    <color name="spinnerItemDisabled">#FF888888</color>
+    <color name="divider">#9444</color>
+    <color name="campus_guide_divider">#9444</color>
+
+    <color name="bg">#000</color>
+    <color name="fg">#fff</color>
+    <color name="surface">#121212</color>
+    <color name="colorOnSurface">#fff</color>
+    <color name="primaryTitleColor">#D9ffffff</color>
+    <color name="primaryDescriptionColor">#8Cffffff</color>
+    <color name="primaryDateColor">#8Cffffff</color>
+    <color name="primaryCardBackgroundColor">#424242</color>
+
+    <!--Other colors-->
+    <color name="colorJuRed">#E71D25</color>
+    <color name="onlineRed">#3cab4d</color>
+    <color name="offlineGreen">#ad3c3c</color>
+    <color name="black">#000</color>
+    <color name="transparent">#00000000</color>
+    <color name="error">#cf6679</color>
+
+</resources>
